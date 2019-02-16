@@ -1,6 +1,6 @@
 # Lyft
 
-Desafio opcional (*hacker edition*)proposto às alunas da Laboratoria. O objetivo era reproduzir a página de um aplicativo chamado **Lyft**.
+Desafio opcional (*hacker edition*) proposto às alunas da Laboratoria. O objetivo era reproduzir a página de um aplicativo chamado **Lyft**.
 
 
 ## Fluxo de trabalho
